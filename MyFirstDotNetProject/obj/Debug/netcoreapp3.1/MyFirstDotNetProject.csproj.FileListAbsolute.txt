@@ -1,0 +1,14 @@
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.exe
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.deps.json
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.runtimeconfig.json
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.runtimeconfig.dev.json
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.dll
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\bin\Debug\netcoreapp3.1\MyFirstDotNetProject.pdb
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.csproj.AssemblyReference.cache
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.AssemblyInfoInputs.cache
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.AssemblyInfo.cs
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.csproj.CoreCompileInputs.cache
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.dll
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.pdb
+F:\DotNetClass\MyFirstDotNetProject\MyFirstDotNetProject\obj\Debug\netcoreapp3.1\MyFirstDotNetProject.genruntimeconfig.cache
